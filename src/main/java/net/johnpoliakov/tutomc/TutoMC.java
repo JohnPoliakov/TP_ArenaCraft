@@ -58,6 +58,7 @@ public final class TutoMC extends JavaPlugin {
 
     }
 
+    // On renregistre différents gamerule sur l'ensemble des mondes chargés sur le serveur
     private void registerRules(){
 
         for(World w : Bukkit.getWorlds()){
