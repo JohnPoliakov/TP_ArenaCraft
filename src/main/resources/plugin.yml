@@ -1,0 +1,7 @@
+name: TutoMC
+version: 1.0
+main: net.johnpoliakov.tutomc.TutoMC
+api-version: 1.17
+commands:
+  fight:
+    description: fight
